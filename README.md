@@ -1,2 +1,2 @@
-# Kodluyoruz-React-Odevleri
-Kodluyoruz Eğitimi Kapsamında Yaptığım React Odevleri
+# Kodluyoruz-React-Ödevleri
+Kodluyoruz Eğitimi Kapsamında Yaptığım React Ödevleri
